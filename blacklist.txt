@@ -1,3 +1,10 @@
+<config>
+    <name>List of disgusting people</name>
+    <message>
+        Howdy {{player_nick}}, you are on the list of disgusting people, congratulations! This means that your attitude towards other people is so disgusting that you are honored to be mentioned in this list. Access to this content is closed for you forever, bye.
+    </message>
+</config>
+
 STEAM_1:1:433036008
 STEAM_1:0:144951445
 STEAM_1:1:542764709
